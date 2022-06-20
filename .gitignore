@@ -1,0 +1,8 @@
+vendor/
+# app/config.php
+# .htaccess
+# public/.htaccess
+public/error_log
+composer.lock
+.user.ini
+php.ini
